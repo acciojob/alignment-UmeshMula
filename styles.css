@@ -26,16 +26,7 @@
       .item{
         border: 1px solid 
       }
-.r1{
-	border-right:none;
-}
-.r2{
-	border-right:none;
-	border-left:none;
-}
-.r3{
-	border-left:none;
-}
+
 
       td {
         padding: 1px;
